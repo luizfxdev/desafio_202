@@ -36,21 +36,6 @@ CSS3 com animações modernas
 
 Algoritmos de grafos
 
-🚀 Como Executar
-Clone o repositório:
-
-bash
-git clone https://github.com/seu-usuario/corrida-estelar.git
-Instale as dependências:
-
-bash
-npm install
-Inicie o servidor de desenvolvimento:
-
-bash
-npm run watch
-Abra o arquivo index.html no seu navegador
-
 📝 Exemplos de Entrada
 Formato de tupla:
 text
